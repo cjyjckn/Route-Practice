@@ -1,0 +1,29 @@
+\t (02:08:52) allegro 16.6 S034 (v16-6-112CQ) Windows 32
+\t (02:08:52)     Journal start - Wed Jul 17 14:28:08 2019
+\t (02:08:52)         Host=USER-PC User=user Pid=4932 CPUs=4
+\t (02:08:52) CmdLine= allegro.exe -p .
+\t (02:08:52) 
+\d (02:08:52) Design opened: C:/Users/user/Desktop/work/samples/layout_samples_r02/layout_samples_r02/demoa/demoa2_c.brd
+\i (02:08:52) generaledit 
+\i (02:08:53) roam start
+\i (02:08:53) roam x -16
+\i (02:08:53) roam y 16
+\i (02:08:54) roam x -16
+\i (02:08:54) roam x -16
+\i (02:08:55) roam x -16
+\i (02:08:55) roam y 16
+\i (02:08:55) roam x -16
+\i (02:08:56) roam y 16
+\i (02:08:57) roam x -16
+\i (02:08:57) roam end
+\i (02:08:58) grid toggle 
+\i (02:08:58) generaledit 
+\i (02:09:08) open 
+\e (02:09:08) Do you want to save the changes you made to demoa2_c.brd?
+\i (02:09:11) fillin no 
+\i (02:09:18) fillin "C:\Users\user\Desktop\work\samples\layout_samples_r02\layout_samples_r02\demob\demob2_c.brd"
+\i (02:09:18) cd "C:\Users\user\Desktop\work\samples\layout_samples_r02\layout_samples_r02\demob"
+\t (02:09:18) Opening existing design...
+\t (02:09:18) Grids are drawn 100.0, 100.0 apart for enhanced viewability.
+\i (02:09:18) trapsize 115
+\t (02:09:18)     Journal end - Wed Jul 17 14:28:34 2019

@@ -1,0 +1,62 @@
+\t (02:09:18) allegro 16.6 S034 (v16-6-112CQ) Windows 32
+\t (02:09:18)     Journal start - Wed Jul 17 14:28:34 2019
+\t (02:09:18)         Host=USER-PC User=user Pid=4932 CPUs=4
+\t (02:09:18) CmdLine= allegro.exe -p .
+\t (02:09:18) 
+\d (02:09:18) Design opened: C:/Users/user/Desktop/work/samples/layout_samples_r02/layout_samples_r02/demob/demob2_c.brd
+\i (02:09:18) generaledit 
+\i (02:09:26) pick grid 1869.8 1356.4
+\t (02:09:26) last pick:  1875.0 1350.0
+\i (02:09:33) flipdesign 
+\i (02:09:37) flipdesign 
+\i (02:09:41) show allpanes 
+\i (02:09:41) generaledit 
+\i (02:09:45) trapsize 96
+\i (02:09:48) roam start
+\i (02:09:48) roam y -32
+\i (02:09:48) roam end
+\i (02:09:54) showhide view 
+\i (02:09:54) generaledit 
+\i (02:09:55) pick grid 2093.8 1272.2
+\t (02:09:55) last pick:  2100.0 1275.0
+\i (02:09:56) drag_start grid 1991.8 1503.2
+\i (02:09:56) drag_stop 223.2 710.2
+\i (02:09:56) pick grid 2396.0 1052.8
+\t (02:09:56) last pick:  2400.0 1050.0
+\i (02:10:08) pick grid 2176.6 427.3
+\t (02:10:08) last pick:  2175.0 425.0
+\i (02:11:02) artwork 
+\i (02:11:12) setwindow form.film_control
+\i (02:11:12) FORM film_control load  
+\i (02:11:34) fillin "C:\Users\user\Desktop\work\ex2_rlc\allegro\FILM_SETUP.txt"
+   (02:11:34) t
+\i (02:11:36) FORM film_control ok  
+\i (02:11:36) setwindow pcb
+\i (02:11:36) generaledit 
+\i (02:11:42) trapsize 115
+\i (02:11:46) artwork 
+\i (02:11:48) setwindow form.film_control
+\i (02:11:48) FORM film_control load  
+\i (02:12:31) fillin "menu_cancel"
+\i (02:12:34) FORM film_control cancel  
+\i (02:12:34) setwindow pcb
+\i (02:12:34) generaledit 
+\i (02:13:43) setwindow form.vf_vis
+\i (02:13:43) FORM vf_vis colorview_list Film: design 
+\i (02:13:46) FORM vf_vis colorview_list Last View 
+\i (02:13:48) FORM vf_vis colorview_list Film: BOTTOM 
+\i (02:13:50) FORM vf_vis colorview_list Last View 
+\i (02:20:31) setwindow pcb
+\i (02:20:31) open 
+\e (02:20:31) Do you want to save the changes you made to demob2_c.brd?
+\i (02:20:35) fillin yes 
+\i (02:20:41) fillin "demob2_c.brd"
+\t (02:20:41) Opening existing design...
+\i (02:20:41) trapsize 115
+\d (02:20:41) Design opened: C:/Users/user/Desktop/work/samples/layout_samples_r02/layout_samples_r02/demob/demob2_c.brd
+\i (02:20:41) generaledit 
+\i (02:20:42) open 
+\i (02:20:58) fillin "menu_cancel"
+\i (02:20:58) generaledit 
+\i (02:21:23) exit 
+\t (02:21:23)     Journal end - Wed Jul 17 14:40:40 2019
